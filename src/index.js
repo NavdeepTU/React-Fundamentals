@@ -1,11 +1,14 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import { Tick } from "./main-concepts/index";
+// import React from "react";
+// import ReactDOM from "react-dom";
+// import App from './App'
+import { Welcome } from "./main-concepts/04 Components and Props";
 
 // ReactDOM.render(<Render />, document.getElementById("root"));
+// ReactDOM.render(<App increment = {1} />, document.getElementById("root"));
 
-function tick() {
-  ReactDOM.render(<Tick />, document.getElementById("root2"));
-}
 
-setInterval(tick, 1000);
+// function tick() {
+//   ReactDOM.render(<Tick />, document.getElementById("root2"));
+// }
+
+// setInterval(tick, 1000);

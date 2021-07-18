@@ -1,3 +1,5 @@
+// Elements are the smallest building blocks of React apps.
+//  Elements are what components are “made of”
 const Render = () => {
     return (<h1>Hi this is root 2</h1>)
 }
