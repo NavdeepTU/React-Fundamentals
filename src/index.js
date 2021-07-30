@@ -4,7 +4,11 @@
 // import { Welcome } from "./main-concepts/04 Components and Props";
 // import { Clock } from "./main-concepts/05 State and Lifecycle";
 // import { Form, LoggingButton } from "./main-concepts/06 Handling Events";
-import { App } from "./advanced-guides/Error Boundaries";
+// import { App } from "./advanced-guides/Error Boundaries";
+// import { Greeting } from "./main-concepts/07 Conditional Rendering";
+import {
+    NumberList
+} from "./main-concepts/08 Lists and Keys";
 
 // ReactDOM.render(<Render />, document.getElementById("root"));
 // ReactDOM.render(<App increment = {1} />, document.getElementById("root"));
