@@ -6,9 +6,10 @@
 // import { Form, LoggingButton } from "./main-concepts/06 Handling Events";
 // import { App } from "./advanced-guides/Error Boundaries";
 // import { Greeting } from "./main-concepts/07 Conditional Rendering";
-import {
-    NumberList
-} from "./main-concepts/08 Lists and Keys";
+// import {
+//     NumberList
+// } from "./main-concepts/08 Lists and Keys";
+import UncontrolledComponent from "./advanced-guides/Uncontrolled Components";
 
 // ReactDOM.render(<Render />, document.getElementById("root"));
 // ReactDOM.render(<App increment = {1} />, document.getElementById("root"));
