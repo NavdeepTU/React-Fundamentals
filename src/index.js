@@ -9,7 +9,8 @@
 // import {
 //     NumberList
 // } from "./main-concepts/08 Lists and Keys";
-import UncontrolledComponent from "./advanced-guides/Uncontrolled Components";
+// import UncontrolledComponent from "./advanced-guides/Uncontrolled Components";
+import Refs from "./advanced-guides/Refs";
 
 // ReactDOM.render(<Render />, document.getElementById("root"));
 // ReactDOM.render(<App increment = {1} />, document.getElementById("root"));
